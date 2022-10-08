@@ -44,7 +44,7 @@ async def start(event):
                       [
                        Button.inline("✍ ᴇᴍʀʟᴇʀ", data="help")
                       ],
-                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Ballastaggerbot}?startgroup=a')],
+                      [Button.url('🌱 Məni Qrupa Əlavə Et', f'https://t.me/{Swxtaggerbot}?startgroup=a')],
                      [Button.url('📣 Söhbet Grupu', f'https://t.me/{SWXChatt}')],
                       [Button.url('Ana Gurup', f'https://t.me/{SWXChatt}')],
                        [Button.url('👨🏻‍💻 Sahib', f'https://t.me/{SwoxyComeBack}')]
